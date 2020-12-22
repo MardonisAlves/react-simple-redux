@@ -4,8 +4,9 @@ import  React from 'react'
 import Card from './Card'
 import { connect } from 'react-redux'
 import {alterarNumeroMinimo ,alterarNumeroMaximo} from '../store/actions/numeros'
-function Intervalo(props){
 
+
+function Intervalo(props){
 
     const {min  , max } = props
   

@@ -1,0 +1,2 @@
+export  const  NUM_MIN_ALTEDADO =  'NUM_MIN_ALTEDADO'
+export  const  NUM_MAX_ALTEDADO = 'NUM_MAX_ALTEDADO'
